@@ -1,6 +1,6 @@
 # DS_project
 
-This is very very simple distributed system project where is separated micro servises: login as doctor, login as patient, read patinet profile, read messages, send message to old message channel, send whole now message to doctor
+This is very very simple distributed system project where is separated microservises: login as doctor, login as patient, read patinet profile, read messages, send message to old message channel, send whole now message to doctor
 
 ## How to run
 You need to download this project and open it in some coding environment. You also need some program to run backend code (for example Postman).
